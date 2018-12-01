@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.amk.demo</groupId>
-	<artifactId>spring-boot-cloud-streams-kafka-streams-json-example</artifactId>
+	<artifactId>kafka-branching</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>spring-boot-streams-kafka-streams-json-example</name>
+	<name>kafka-branching</name>
 	<description>This is a Spring Boot/Spring Cloud example of how to read in JSON from a Kakfa topic and, via Kafka Streams, create a single json doc from subsequent JSON documents</description>
 	
 	<parent>
